@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gabby
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me via whatsapp 07048998261
+- 👀 I’m a web developer
+- 🌱 Expert in JavaScript node and react
 
 <!---
 Gab785/Gab785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
